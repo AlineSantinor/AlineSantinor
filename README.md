@@ -1,4 +1,6 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Aline%20Araújo&fontSize=40&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=300&section=header&text=Aline%20Santinor&fontSize=60&fontColor=ffffff)
+
+<img width="1983" height="793" alt="bannergit" src="https://github.com/user-attachments/assets/e1693256-9f28-4dc3-a24a-c9ef15d0f9d2" />
 
 # 👩‍💻 Olá, eu sou a Aline!
 
