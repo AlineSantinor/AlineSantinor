@@ -1,12 +1,19 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=54189a&height=250&section=header&text=Aline%20Araújo&fontSize=60&fontColor=ffffff)
-# 👩‍💻 Olá, eu sou a Aline Araújo!
-Desenvolvedora web evolução, com foco em React, JavaScript e TypeScript.
-Interesse em soluções digitais envolvendo tecnologia, saúde e soluções digitais.
+# 👩‍💻 Aline Araújo
+
+💻 Desenvolvedora Web em formação  
+⚛️ React | JavaScript | TypeScript  
+💡 Tecnologia aplicada à saúde  
+
 ---
+
 ## 📊 Estatísticas
 
-![Aline GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineSantinor&show_icons=true&theme=radical)
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlineSantinor&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineSantinor&layout=compact&theme=radical"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineSantinor&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AlineSantinor&theme=radical)
+<p align="center">
+  <img height="160em" src="https://streak-stats.demolab.com?user=AlineSantinor&theme=radical"/>
+</p>
