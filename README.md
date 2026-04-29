@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,16&height=200&section=header&text=Aline%20Araújo&fontSize=55&animation=fadeIn&fontColor=5a3e9b&fontAlignY=30&desc=Desenvolvedora%20Web&descAlign=50&descAlignY=80)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,16&height=200&section=header&text=Aline%20Araújo&fontSize=55&animation=fadeIn&fontColor=5a3e9b&fontAlignY=30&desc=Desenvolvedora%20Web&descAlign=50&descAlignY=50)
 
 <p align="center">
   
