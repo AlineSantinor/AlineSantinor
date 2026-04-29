@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=280&section=header&text=Aline%20Araújo&fontSize=55&animation=twinkling&fontColor=ffffff&desc=Desenvolvedora%20Web&descAlign=50&descAlignY=60)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,23,25&height=280&section=header&text=Aline%20Araújo&fontSize=55&animation=fadeIn&fontColor=4b2e83&desc=Desenvolvedora%20Web&descAlign=50&descAlignY=60)
 
 # 👩‍💻 Aline Araújo
 
