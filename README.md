@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,17&height=200&section=header&text=Aline%20Araújo&fontSize=55&animation=fadeIn&fontColor=4b2e83&fontAlignY=30&desc=Desenvolvedora%20Web&descAlign=50&descAlignY=55)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,17&height=200&section=header&text=Aline%20Santinor&fontSize=55&animation=fadeIn&fontColor=4b2e83&fontAlignY=30&desc=Desenvolvedora%20Web&descAlign=50&descAlignY=55)
 
 <p align="center">
   
@@ -13,6 +13,8 @@
 <p align="center">
   <img height="160em" src="https://streak-stats.demolab.com?user=AlineSantinor&theme=radical"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 
 
